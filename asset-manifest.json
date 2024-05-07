@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8c026ec.css",
-    "main.js": "/static/js/main.17d7a585.js",
+    "main.css": "/static/css/main.06fe31cd.css",
+    "main.js": "/static/js/main.753fb2bd.js",
     "static/media/mindinspira.png": "/static/media/mindinspira.50583096a00ca2b3fcf5.png",
     "static/media/irun.png": "/static/media/irun.12738680870750437da6.png",
     "static/media/suneducation.png": "/static/media/suneducation.019b4ff57dde0cb9f828.png",
@@ -18,18 +18,18 @@
     "static/media/apigw.png": "/static/media/apigw.da8d0733b9595e6f0008.png",
     "static/media/hoscloud.png": "/static/media/hoscloud.f0e7897a3f43848e6ea8.png",
     "static/media/viera.jpg": "/static/media/viera.0141e84be792fe30bcbf.jpg",
-    "static/media/kibaraya.png": "/static/media/kibaraya.60381b9d70aebfab581c.png",
+    "static/media/sayatomi.png": "/static/media/sayatomi.e60b3da5fbef2f3e9be0.png",
     "static/media/denojs.png": "/static/media/denojs.275edeb67a4795978485.png",
     "static/media/netmaui.png": "/static/media/netmaui.814d45aaad57e20377f6.png",
     "static/media/csharp.png": "/static/media/csharp.3f0bb9718c1727c555cc.png",
     "static/media/mspowerapps.png": "/static/media/mspowerapps.a869b34c39eafb24e63c.png",
     "static/media/sqlserver.png": "/static/media/sqlserver.f04ae38fc14eab756a5a.png",
     "index.html": "/index.html",
-    "main.d8c026ec.css.map": "/static/css/main.d8c026ec.css.map",
-    "main.17d7a585.js.map": "/static/js/main.17d7a585.js.map"
+    "main.06fe31cd.css.map": "/static/css/main.06fe31cd.css.map",
+    "main.753fb2bd.js.map": "/static/js/main.753fb2bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8c026ec.css",
-    "static/js/main.17d7a585.js"
+    "static/css/main.06fe31cd.css",
+    "static/js/main.753fb2bd.js"
   ]
 }
