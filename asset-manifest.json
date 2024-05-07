@@ -1,8 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.45d8620b.css",
-    "main.js": "/static/js/main.62dec48b.js",
-    "static/media/profile.png": "/static/media/profile.bf82935c5a5cdfb6f401.png",
+    "main.css": "/static/css/main.d8c026ec.css",
+    "main.js": "/static/js/main.f2b6b4e5.js",
+    "static/media/mindinspira.png": "/static/media/mindinspira.50583096a00ca2b3fcf5.png",
+    "static/media/irun.png": "/static/media/irun.12738680870750437da6.png",
+    "static/media/suneducation.png": "/static/media/suneducation.019b4ff57dde0cb9f828.png",
+    "static/media/wellplan_dashboard.png": "/static/media/wellplan_dashboard.9ca06c14b5afda381a53.png",
+    "static/media/promise_dashboard.png": "/static/media/promise_dashboard.c18e373f92bb93ad72a0.png",
+    "static/media/seindotravel.png": "/static/media/seindotravel.adf1d5fd0b485e3aaff2.png",
+    "static/media/diniyahacid.png": "/static/media/diniyahacid.bcd62dc31714bb92686a.png",
+    "static/media/phrsuperapp.png": "/static/media/phrsuperapp.426b70a77c3663e20f3b.png",
+    "static/media/wellplan.png": "/static/media/wellplan.5a8fc8fc306071e42b43.png",
+    "static/media/promise.png": "/static/media/promise.6cda7eff92e90bbd89a0.png",
+    "static/media/assistid.png": "/static/media/assistid.29c79601a2139f081e7d.png",
+    "static/media/tommi.png": "/static/media/tommi.a262dcbe0959e6bc6e18.png",
+    "static/media/emesys.png": "/static/media/emesys.b44e12b098564e336be0.png",
+    "static/media/apigw.png": "/static/media/apigw.da8d0733b9595e6f0008.png",
+    "static/media/hoscloud.png": "/static/media/hoscloud.f0e7897a3f43848e6ea8.png",
+    "static/media/viera.jpg": "/static/media/viera.0141e84be792fe30bcbf.jpg",
     "static/media/kibaraya.png": "/static/media/kibaraya.60381b9d70aebfab581c.png",
     "static/media/denojs.png": "/static/media/denojs.275edeb67a4795978485.png",
     "static/media/netmaui.png": "/static/media/netmaui.814d45aaad57e20377f6.png",
@@ -10,11 +25,11 @@
     "static/media/mspowerapps.png": "/static/media/mspowerapps.a869b34c39eafb24e63c.png",
     "static/media/sqlserver.png": "/static/media/sqlserver.f04ae38fc14eab756a5a.png",
     "index.html": "/index.html",
-    "main.45d8620b.css.map": "/static/css/main.45d8620b.css.map",
-    "main.62dec48b.js.map": "/static/js/main.62dec48b.js.map"
+    "main.d8c026ec.css.map": "/static/css/main.d8c026ec.css.map",
+    "main.f2b6b4e5.js.map": "/static/js/main.f2b6b4e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.45d8620b.css",
-    "static/js/main.62dec48b.js"
+    "static/css/main.d8c026ec.css",
+    "static/js/main.f2b6b4e5.js"
   ]
 }
