@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.06fe31cd.css",
-    "main.js": "/static/js/main.f72c29bd.js",
+    "main.js": "/static/js/main.9ccdd8d7.js",
     "static/media/mindinspira.png": "/static/media/mindinspira.50583096a00ca2b3fcf5.png",
     "static/media/irun.png": "/static/media/irun.12738680870750437da6.png",
     "static/media/suneducation.png": "/static/media/suneducation.019b4ff57dde0cb9f828.png",
@@ -26,10 +26,10 @@
     "static/media/sqlserver.png": "/static/media/sqlserver.f04ae38fc14eab756a5a.png",
     "index.html": "/index.html",
     "main.06fe31cd.css.map": "/static/css/main.06fe31cd.css.map",
-    "main.f72c29bd.js.map": "/static/js/main.f72c29bd.js.map"
+    "main.9ccdd8d7.js.map": "/static/js/main.9ccdd8d7.js.map"
   },
   "entrypoints": [
     "static/css/main.06fe31cd.css",
-    "static/js/main.f72c29bd.js"
+    "static/js/main.9ccdd8d7.js"
   ]
 }
